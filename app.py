@@ -330,7 +330,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #666; margin-top: 2rem;">
-    <p>Created by Vidhi,Amey,Nandan and Ananya| Employee Performance Classification System</p>
+    <p>Created by Vidhi, Amey, Nandan and Ananya| Employee Performance Classification System</p>
     </div>
     """, unsafe_allow_html=True)
 
